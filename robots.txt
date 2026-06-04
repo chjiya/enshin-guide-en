@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://chjiya.github.io/genshin-guide-en/sitemap.xml
+Sitemap: https://chjiya.github.io/enshin-guide-en/sitemap.xml
